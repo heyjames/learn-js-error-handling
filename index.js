@@ -1,3 +1,4 @@
+// Bubble up error handling.
 (function () {
   function getUsers() {
     console.log("Getting users...");
